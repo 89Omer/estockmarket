@@ -1,4 +1,4 @@
 <?php
         echo "fureh";
-        echo "sbors";
+        echo "juwih";
 ?>
