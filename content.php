@@ -8,5 +8,4 @@
         echo "djgnu";
         echo "sdngv";
         echo "wxqva";
-        echo "haagf";
 ?>
