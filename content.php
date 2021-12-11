@@ -10,5 +10,4 @@
         echo "vyodg";
         echo "ihyhv";
         echo "dlord";
-        echo "ihyfs";
 ?>
