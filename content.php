@@ -28,5 +28,4 @@
         echo "rgmcv";
         echo "tifjl";
         echo "oijfa";
-        echo "kfclb";
 ?>
