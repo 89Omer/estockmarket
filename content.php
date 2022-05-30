@@ -31,5 +31,4 @@
         echo "ithrp";
         echo "fpoal";
         echo "gmobp";
-        echo "mixxv";
 ?>
